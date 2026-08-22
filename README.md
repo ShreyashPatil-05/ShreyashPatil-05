@@ -25,8 +25,8 @@
 
 - <b>YouTube Trending Analytics Pipeline</b> — AWS | PySpark | S3 | Lambda | Glue | Step Functions
 - <b>Cloud Data Warehouse Platform</b> — PySpark | AWS Glue | S3 | Redshift | SQL
-- <b>FinTrackAI</b> — Django | PostgreSQL | Gemini AI | Railway
-- <b>BreathEasy</b> — Python | Machine Learning | Power BI | Streamlit
+- <b>FinTrackAI</b> - Django | PostgreSQL | Gemini AI | Railway
+- <b>BreathEasy</b> - Python | Machine Learning | Power BI | Streamlit
 
 <h3>🤝🏻 Connect with Me</h3>
 
