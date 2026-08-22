@@ -1,15 +1,14 @@
 <h2> Hey there! I'm Shreyash. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" height="500">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330" height="390">
 
 <h3>👨🏻‍💻 About Me</h3>
 
 - 🎓 Pursuing a <b>Master of Computer Application (MCA)</b> at Pimpri Chinchwad College of Engineering (PCCoE).
-- 💼 Currently working as an <b>Executive Support Analyst</b>, working with ERP/CRM applications, SQL, APIs and production support.
-- ☁️ Interested in <b>Data Engineering, Cloud Computing and Backend Development</b>.
-- 🔧 Building cloud-native data pipelines using <b>Python, PySpark and AWS</b>.
+- 💼 Working as an <b>Executive Support Analyst</b>, working with ERP/CRM systems, SQL, APIs and production support.
+- ☁️ Building cloud-native <b>Data Engineering pipelines</b> using Python, PySpark and AWS.
 - 📊 Interested in <b>Data Warehousing, ETL, Power BI and Analytics</b>.
 - 🤖 Exploring <b>LLM applications, RAG, LangChain and LangGraph</b>.
-- 🌱 Continuously learning and building practical software and data-engineering projects.
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -20,6 +19,7 @@
 - 🗄️ <b>Databases:</b> PostgreSQL | MySQL | SQLite | DynamoDB | pgVector
 - 🤖 <b>AI:</b> LangChain | LangGraph | RAG | Gemini AI
 - 🔧 <b>Tools:</b> Docker | Git | GitHub | Railway | CI/CD
+
 
 <h3>🚀 Featured Projects</h3>
 
