@@ -1,32 +1,34 @@
 💫 About Me
 # Hi, I'm Shreyash Patil 👋
 
-I'm a recent computer science graduate and an aspiring **Software Engineer** passionate about building reliable, scalable, and user-focused software.
+I'm a postgraduate student pursuing **Master of Computer Applications (MCA)** at Pimpri Chinchwad College of Engineering, Pune.
 
-I enjoy working across the software development lifecycle — from understanding problems and designing solutions to building, testing, and integrating applications. I'm particularly interested in web development, backend systems, and creating clean and maintainable software.
+I'm an aspiring Software/Data Engineer interested in building scalable backend systems, data-driven applications and reliable software solutions. I enjoy working across the development lifecycle, from designing backend architectures and developing APIs to optimizing databases and deploying cloud-based applications.
+
+My experience spans backend development, application support, data engineering and AI-powered applications, with hands-on exposure to building SaaS platforms and cloud-based ETL pipelines.
 
 ## 💼 Experience
 
-**Full-Stack Development Intern — Melsta Studio**
-Working on real-world product features across frontend and backend, building user-facing interfaces, developing and integrating APIs, working with databases, and contributing to product improvements.
+**Executive Support Analyst — Kris Kross (Apr 2026 - Present)**
+Providing application support for a cloud-based ERP/CRM platform across Sales, Inventory, Payment and CRM modules while resolved 100+ production incidents while maintaining approximately 93% SLA compliance and performing data profiling, cleansing, transformation and modelling to develop Power BI dashboards for operational analytics, including Service Desk and AMC reporting.
 
-**Developer Mentee — Code for GovTech (C4GT), DMP 2025**
-Contributed to open-source initiatives focused on technology for public good while collaborating with developers and following real-world software engineering practices.
+**Data Science Intern — Skill Vertex (Sept '22 – Nov '22)**
+Contributed to developing Machine Learning solutions using Python, Scikit-learn, and Streamlit, performing data preprocessing, exploratory analysis, model training, and visualization.
 
 ## 🛠️ Tech Stack
 
-* **Languages:** JavaScript, TypeScript, Go, C++
-* **Frontend:** React, Next.js, HTML, CSS
-* **Backend:** Node.js, Go, REST APIs, Nest.js
-* **Databases:** PostgreSQL, MongoDB
-* **Tools:** Git, GitHub,
-* **Devops:** AWS, Docker, CI/CD
+* **Languages:** Python, Java, Sql
+* **Databases:** MySQL, PostgreSQL, SQLite, pgVector, DynamoDB
+* **Frameworks:** Django, Django REST Framework, Flask
+* **Data & AI:**  PySpark, ETL Pipelines, LangChain, LangGraph, RAG, Streamlit
+* **Cloud & DevOps:** AWS (EC2, S3, Lambda, Glue, Redshift, Athena, IAM, CloudWatch), Docker, Git/Github
+* **Concepts:** Data Warehouse/Lake, CI/CD, DSA, OOP, DBMS, Operating Systems, Computer Networks
 
 ## 🌱 Interests
 
-Software Engineering • Web Development • Backend Systems • Frontend Development • Open Source • Problem Solving
+Software Engineering • DataEngineering • Cloud Computing & AWS • Backend Systems • AI Integration & Intelligent Applications • System Design & Software Architecture
 
-I'm always learning, building, and looking for opportunities to solve meaningful problems through software.
+I'm always learning, building and looking for opportunities to solve meaningful problems through software.
 
 <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
